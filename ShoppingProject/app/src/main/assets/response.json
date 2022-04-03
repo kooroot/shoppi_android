@@ -1,0 +1,201 @@
+{
+  "categories": [
+    {
+      "category_id": "fashion_female",
+      "label": "여성패션",
+      "thumbnail_image_url": "https://user-images.githubusercontent.com/20871853/154196964-100f0893-6609-47fa-8f3d-104c20e42de2.jpg",
+      "updated": false
+    },
+    {
+      "category_id": "fashion_male",
+      "label": "남성패션",
+      "thumbnail_image_url": "https://user-images.githubusercontent.com/20871853/154196441-85a54223-57fa-4f2f-8efd-f029777b5ef5.jpg",
+      "updated": false
+    },
+    {
+      "category_id": "kids",
+      "label": "유아동",
+      "thumbnail_image_url": "https://user-images.githubusercontent.com/20871853/154196376-c75643dd-50bf-4ef0-8740-a2d499212116.jpg",
+      "updated": false
+    },
+    {
+      "category_id": "electronics",
+      "label": "가전/디지털",
+      "thumbnail_image_url": "https://user-images.githubusercontent.com/20871853/154196407-39ba7d7c-10b0-4cc2-9dbf-7b222362d5cd.jpg",
+      "updated": false
+    },
+    {
+      "category_id": "furniture",
+      "label": "가구/인테리어",
+      "thumbnail_image_url": "https://user-images.githubusercontent.com/20871853/154196424-70c7484b-b0fc-44df-9156-7ab66b5f8770.jpg",
+      "updated": true
+    },
+    {
+      "category_id": "sports",
+      "label": "스포츠/레저",
+      "thumbnail_image_url": "https://user-images.githubusercontent.com/20871853/154194506-eedd6eb8-6955-4f56-9375-f65146472ce7.jpg",
+      "updated": false
+    },
+    {
+      "category_id": "books",
+      "label": "도서/음반",
+      "thumbnail_image_url": "https://user-images.githubusercontent.com/20871853/154196390-e91a0f60-88bb-4cb1-85bb-4d4587c138d5.jpg",
+      "updated": false
+    },
+    {
+      "category_id": "pets",
+      "label": "반려동물",
+      "thumbnail_image_url": "https://user-images.githubusercontent.com/20871853/154196447-e5b06852-4a56-4206-8e42-0ffe45b50a8f.jpg",
+      "updated": false
+    },
+    {
+      "category_id": "car",
+      "label": "자동차",
+      "thumbnail_image_url": "https://user-images.githubusercontent.com/20871853/154196395-6a363f72-3681-4389-a209-157d99fcf085.jpg",
+      "updated": false
+    },
+    {
+      "category_id": "fancy_goods",
+      "label": "잡화",
+      "thumbnail_image_url": "https://user-images.githubusercontent.com/20871853/154196332-fdfccb84-1abc-4e2a-bae5-db74ece2b520.jpg",
+      "updated": false
+    },
+    {
+      "category_id": "food",
+      "label": "식품",
+      "thumbnail_image_url": "https://user-images.githubusercontent.com/20871853/154196413-9e770e91-0d75-4aa4-a56d-6eaf9f3406e9.jpg",
+      "updated": false
+    },
+    {
+      "category_id": "beauty",
+      "label": "뷰티",
+      "thumbnail_image_url": "https://user-images.githubusercontent.com/20871853/154198294-d1685633-7b9e-4e4f-a958-ea617b7e26f1.jpg",
+      "updated": true
+    }
+  ],
+  "fashion_female" : {
+    "top_selling": {
+      "title": {
+        "text": "인기상품"
+      },
+      "categories": [
+        {
+          "category_id": "fashion_jacket",
+          "label": "자켓",
+          "thumbnail_image_url": "https://user-images.githubusercontent.com/20871853/156506360-657151fa-b02b-4a6a-bb59-f08879fa280b.png",
+          "updated": true
+        },
+        {
+          "category_id": "fashion_sweater",
+          "label": "스웨터",
+          "thumbnail_image_url": "https://user-images.githubusercontent.com/20871853/156506365-4ece485d-ff4e-4684-83b8-a259fa2e4167.png",
+          "updated": false
+        },
+        {
+          "category_id": "fashion_cap",
+          "label": "캡모자",
+          "thumbnail_image_url": "https://user-images.githubusercontent.com/20871853/156506359-653f3f72-bee3-4a5c-bc72-1065b93f7375.png",
+          "updated": false
+        },
+        {
+          "category_id": "fashion_belt",
+          "label": "벨트",
+          "thumbnail_image_url": "https://user-images.githubusercontent.com/20871853/156506357-2500996c-3f0b-4632-9c20-925ddf83f1db.png",
+          "updated": false
+        },
+        {
+          "category_id": "fashion_shirts",
+          "label": "셔츠",
+          "thumbnail_image_url": "https://user-images.githubusercontent.com/20871853/156506361-cdcfaeb1-08fb-4e08-b628-704a09bd4095.png",
+          "updated": false
+        },
+        {
+          "category_id": "fashion_skirts",
+          "label": "스커트",
+          "thumbnail_image_url": "https://user-images.githubusercontent.com/20871853/156506362-1c5a6162-d51b-4f38-9565-2623f85feeeb.png",
+          "updated": false
+        }
+      ]
+    },
+    "promotions": {
+      "title": {
+        "text": "추천상품"
+      },
+      "items": [
+        {
+          "label": "[19차 리오더] 페이크 레더 숏 테일러 자켓 블랙",
+          "discount_rate": 10,
+          "price": 90000,
+          "representative_image_url": "https://user-images.githubusercontent.com/20871853/154632512-95a5bc37-eccc-4361-ab3f-20f92792aae1.png",
+          "product_id": "jacket_1"
+        },
+        {
+          "label": "캐시미어 100% 터틀넥 스웨터",
+          "discount_rate": 15,
+          "price": 70000,
+          "representative_image_url": "https://user-images.githubusercontent.com/20871853/154632518-5edbebfd-01bd-4bef-9348-eee53155ccdc.png",
+          "product_id": "sweater_1"
+        },
+        {
+          "label": "반팔 스트라이프 스웨터",
+          "discount_rate": 20,
+          "price": 30000,
+          "representative_image_url": "https://user-images.githubusercontent.com/20871853/154632520-e55950ad-a627-49f2-8f63-bfdee6064761.png",
+          "product_id": "sweater_2"
+        },
+        {
+          "label": "화이트 스포츠 점퍼",
+          "discount_rate": 20,
+          "price": 150000,
+          "representative_image_url": "https://user-images.githubusercontent.com/20871853/154632521-e089017d-0c3f-4eac-83e7-f480567b1b76.png",
+          "product_id": "sports_1"
+        }
+      ]
+    }
+  },
+  "products": {
+    "FW-twg-sweater-1": {
+      "brand_name": "twg. official",
+      "label": "캐시미어 100% 터틀넥 스웨터",
+      "discount_rate": 9,
+      "price": 102000,
+      "type": "Free",
+      "representative_image_url": "https://user-images.githubusercontent.com/20774764/149948250-8968498e-e204-4b35-8d52-8d9aecd1d54a.png",
+      "descriptions": [
+        {
+          "id": "FW-twg-sweater-1-desc-1",
+          "image_url": "https://user-images.githubusercontent.com/20774764/154342920-f92e9ce0-4491-427b-9119-97138f102a82.jpg"
+        },
+        {
+          "id": "FW-twg-sweater-1-desc-2",
+          "image_url": "https://user-images.githubusercontent.com/20774764/154342942-1956ebb2-cc25-4b71-acc4-702f4a1783c6.jpg"
+        }
+      ],
+      "product_id": "FW-twg-sweater-1"
+    },
+    "desk-1": {
+      "brand_name": "Desk",
+      "label": "슬림 데스크 800",
+      "discount_rate": 16,
+      "price": 160000,
+      "type": "1800x720",
+      "representative_image_url": "https://user-images.githubusercontent.com/20774764/149948259-9806ff37-0719-4e34-b11f-be0056c7fea8.png",
+      "descriptions": [
+        {
+          "id": "desk-1-desc-1",
+          "image_url": "https://user-images.githubusercontent.com/20774764/154342940-3051dba1-cf0c-4460-a892-65b7bf334fcb.jpg"
+        },
+        {
+          "id": "desk-1-desc-2",
+          "image_url": "https://user-images.githubusercontent.com/20774764/154342948-3744fd53-3963-4994-bccc-796313489e1a.jpg"
+        },
+        {
+          "id": "desk-1-desc-3",
+          "image_url": "https://user-images.githubusercontent.com/20774764/154342950-01d232ac-210e-4e89-8395-f7aa5a2d9a64.jpg"
+        }
+      ],
+      "product_id": "desk-1"
+    }
+  }
+}
+
